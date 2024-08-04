@@ -142,7 +142,9 @@
     );
   }
 
-  color-scheme: dark;
+  &{
+    color-scheme: dark;
+  }
 
   /* stylelint-disable-next-line selector-id-pattern */
   #disqus_thread {

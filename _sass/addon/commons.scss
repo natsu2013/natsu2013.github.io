@@ -23,7 +23,9 @@ html {
     }
   }
 
-  font-size: 16px;
+  &{
+    font-size: 16px;
+  }
 }
 
 body {
@@ -178,6 +180,7 @@ i {
   > section {
     padding-left: 1rem;
     border-left: 1px solid var(--main-border-color);
+    border-radius: 5px;
 
     &:not(:last-child) {
       margin-bottom: 4rem;
@@ -186,6 +189,7 @@ i {
 
   .content {
     font-size: 0.9rem;
+    border-radius: 5px;
   }
 }
 
@@ -195,7 +199,11 @@ i {
     font-family: inherit;
     line-height: inherit;
 
-    @include label(inherit);
+    // @include label(inherit);
+    font-size: 1rem;
+    font-weight: 600;
+    color: #6c757d;
+
   }
 
   .post-tag {
@@ -219,7 +227,9 @@ i {
 
     @extend %no-bottom-border;
 
-    color: inherit;
+    &{
+      color: inherit;
+    }
   }
 }
 
@@ -693,16 +703,20 @@ $btn-mb: 0.5rem;
   width: $sidebar-width;
   z-index: 99;
   background: var(--sidebar-bg);
-  border-right: 1px solid var(--sidebar-border-color);
+  // border-right: 1px solid var(--sidebar-border-color);
+  box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
 
   /* Hide scrollbar for Chrome, Safari and Opera */
   &::-webkit-scrollbar {
     display: none;
   }
-
-  /* Hide scrollbar for IE, Edge and Firefox */
-  -ms-overflow-style: none; /* IE and Edge */
-  scrollbar-width: none; /* Firefox */
+  &{
+    /* Hide scrollbar for IE, Edge and Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
 
   %sidebar-link-hover {
     &:hover {
@@ -929,7 +943,7 @@ $btn-mb: 0.5rem;
     span {
       &:not(:last-child) {
         &::after {
-          content: '›';
+          content: '∋';
           padding: 0 0.3rem;
         }
       }
@@ -1057,8 +1071,10 @@ search {
     @extend %no-bottom-border;
     @extend %heading;
 
-    font-size: 1.4rem;
-    line-height: 2.5rem;
+    &{
+      font-size: 1.4rem;
+      line-height: 2.5rem;
+    }
   }
 
   > article {

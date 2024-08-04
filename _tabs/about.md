@@ -4,14 +4,31 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Merhaba!
+<div align="center">
+ 
+<img alt="Static Badge" src="https://img.shields.io/badge/%E2%9D%9DDon't%20try%20to%20perfect%2C%20just%20try%20to%20be%20better%20than%20you%20were%20yesterday.%E2%9D%9E-ffbe0b?style=flat&logo=1panel&label=slogan&labelColor=84a98c">
+</div>
 
-![About](/assets/img/headers/awscommunitybuilder.webp)
+<div align="center">
+<img clase="about-img" src="assets/img/about/about.png" alt="Dylan Finn">
+</div>
+<div align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Role-SOC_Analyst-blue?style=flat&logo=1panel&labelColor=84a98c">
+</div>
 
-I'm Deniz, `AWS Community Builder` and `AWS Content Creator` from London.
 
-At Cloud Academy, my role involves designing, developing, and revising the production process and implementation of AWS content. My work spans a variety of AWS technologies, aiming to help student grasp how to effectively implement and configure AWS services.
+## Overview
 
-Outside of work, I am passionate about building on AWS. I spend my time experimenting with different cloud services, integrating them to create fun and practical solutions. I document these solutions on this site and also share them through my YouTube channel: [Hands-On with Digital Den](https://www.youtube.com/channel/UCHoxUz0IfdhOieSXox_mwSw)
+✌️ Hello you guys! <br>
 
-This documenation site is built using Jekyll, a static site generator with the Chirpy theme. The site is configured with GitHub Actions for automatic deployment to GitHub Pages whenever I push changes. A custom domain is established via a CNAME record pointing to `docs.digitalden.cloud`, making the site live and accessible on GitHub Pages. It's all open source, and you can view it here on [GitHub](https://github.com/digitalden3/digitalden3.github.io).
+🔭 I’m currently working on enhancing my skills in threat detection and incident response.
+
+👯 I’m looking to collaborate on cybersecurity projects, particularly those involving network security and threat intelligence.
+
+🤝 I’m looking for help with advanced threat hunting techniques and mastering the latest cybersecurity tools.
+
+🌱 I’m currently learning to improve my programming skills in Python.
+
+💬 Ask me about SOC operations, incident response, and cybersecurity best practices.
+
+

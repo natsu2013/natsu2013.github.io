@@ -14,19 +14,19 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Deniz Yilmaz # the main title
+title: Natsu # the main title
 
-tagline: AWS Community Builder, AWS Content Creator @ QA (formely Cloud Academy) # it will display as the sub-title
+tagline: Security Engineer | Blue Team # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
  DigitalDenCloud - Documentation and More
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://docs.digitalden.cloud"
+url: "https://natsu2013.github.io"
 
 github:
-  username: digitaldencloud # change to your github username
+  username: Natsu.yzx # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Deniz Yilmaz
+  name: Natsu.2013
   email: # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -50,7 +50,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: "G-BMWGHY1HPS" # fill in your Google Analytics ID
+  id: "" # fill in your Google Analytics ID
 
 goatcounter:
   id: # fill in your Goatcounter ID
@@ -76,7 +76,7 @@ theme_mode: dark # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/headers/digitalden.webp
+avatar: assets/img/headers/avata.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
