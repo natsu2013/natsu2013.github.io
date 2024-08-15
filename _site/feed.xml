@@ -4,7 +4,7 @@
   <id>http://0.0.0.0:4000/</id>
   <title>Natsu</title>
   <subtitle>DigitalDenCloud - Documentation and More</subtitle>
-  <updated>2024-08-04T09:30:31+01:00</updated>
+  <updated>2024-08-15T14:36:47+01:00</updated>
   <author>
     <name>Natsu.2013</name>
     <uri>http://0.0.0.0:4000/</uri>
@@ -17,6 +17,50 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Resource - Hack The Box Machines</title>
+    <link href="http://0.0.0.0:4000/posts/Resource-Hack-The-Box-Machine/" rel="alternate" type="text/html" title="Resource - Hack The Box Machines" />
+    <published>2024-08-08T08:00:00+01:00</published>
+  
+    <updated>2024-08-08T08:00:00+01:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/Resource-Hack-The-Box-Machine/</id>
+    <content src="http://0.0.0.0:4000/posts/Resource-Hack-The-Box-Machine/" />
+    <author>
+      <name>Natsu.2013</name>
+    </author>
+
+  
+    
+    <category term="Hack The Box" />
+    
+    <category term="Machines" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Reconnaisance
+
+
+Resource HTB Season VI
+
+Hello, everyone! 👋 Welcome back. This is the first machine challenge of Season VI and it has a medium difficulty level. As with many previous attempts to pwn a box, I will use the nmap tool to scan the target machine and determine which ports are open.
+
+[user@machine] - $ nmap -p- 10.10.11.x -T4 --min-rate=1000 -Pn --disable-arp-ping -oN nmapscan
+Starting...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -166,12 +210,8 @@ Create a Google Analytics Account
 
 
 
-      This documentation outlines the steps for setting up and deploying a documentation site using Jekyll, a popular static site generator, and the Chirpy theme using GitHub Actions on AWS Cloud9 IDE. It includes instructions for configuring a custom subdomain, such as https://docs.example.com, through AWS Route 53 and integrating it with GitHub Pages.
+      Objectives
 
-Objectives
-
-
-  Launch and prepare the AWS Clou...
     </summary>
   
 
