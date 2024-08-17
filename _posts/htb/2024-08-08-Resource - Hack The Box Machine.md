@@ -4,7 +4,7 @@ date: 2024-08-08 08:00:00 - 0500
 categories: [Hack The Box, Machines]
 tags: [htb, machine, web, resource, seasonvi]
 image: 
-  path: /assets/img/posts/htb/e83ac2321955bd2e0beb788d47fa5ae9.webp
+  path: /assets/img/posts/htb/resource-htb.png
 ---
 
 
@@ -237,6 +237,4 @@ $ ssh -o CertificateFile=yzx-cert.pub -i yzx zzinter@localhost
 ![Access web](/assets/img/posts/htb/EquSHNMrMP.png){: width="972" height="589" }
 _Get user flag_
 
-
-## References
 

@@ -4,7 +4,7 @@
   <id>http://0.0.0.0:4000/</id>
   <title>Natsu</title>
   <subtitle>DigitalDenCloud - Documentation and More</subtitle>
-  <updated>2024-08-15T14:36:47+01:00</updated>
+  <updated>2024-08-17T07:40:21+01:00</updated>
   <author>
     <name>Natsu.2013</name>
     <uri>http://0.0.0.0:4000/</uri>
@@ -17,6 +17,47 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Sea - Hack The Box Machines</title>
+    <link href="http://0.0.0.0:4000/posts/Sea-Hack-The-Box-Machine/" rel="alternate" type="text/html" title="Sea - Hack The Box Machines" />
+    <published>2024-08-16T08:00:00+01:00</published>
+  
+    <updated>2024-08-16T08:00:00+01:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/Sea-Hack-The-Box-Machine/</id>
+    <content src="http://0.0.0.0:4000/posts/Sea-Hack-The-Box-Machine/" />
+    <author>
+      <name>Natsu.2013</name>
+    </author>
+
+  
+    
+    <category term="Hack The Box" />
+    
+    <category term="Machines" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Reconnaisance
+Hello, you guys! 👋 Welcome back. This is the second machine challenge of Season VI. As with many previous attempts to pwn a box, I will start off by scanning the IP address to see what ports are open. Let’s do it with NMAP tool:
+
+$ nmap -p- 10.10.x.x --min-rate=1000 -T4 -oN nmapscan -Pn --disable-arp-ping
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-08-17 06:59 CEST
+Warning: 10...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -175,43 +216,6 @@ Create a Google Analytics Account
 
 
       This documentation will show you how to implement Low-Quality Image Placeholders (LQIP) in your Jekyll site, enhancing user experience by displaying a low-resolution version of an image while the full-resolution image loads. You’ll also learn how to prepare images specifically for the Chirpy theme and convert them to the efficient WebP format, ensuring optimal display and performance. These tec...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>PDFy - Hack The Box Challenges</title>
-    <link href="http://0.0.0.0:4000/posts/PDFy-Hack-The-Box-Challenges/" rel="alternate" type="text/html" title="PDFy - Hack The Box Challenges" />
-    <published>2024-03-26T08:00:00+00:00</published>
-  
-    <updated>2024-03-26T08:00:00+00:00</updated>
-  
-    <id>http://0.0.0.0:4000/posts/PDFy-Hack-The-Box-Challenges/</id>
-    <content src="http://0.0.0.0:4000/posts/PDFy-Hack-The-Box-Challenges/" />
-    <author>
-      <name>Natsu.2013</name>
-    </author>
-
-  
-    
-    <category term="Hack The Box" />
-    
-    <category term="Challenges" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Objectives
-
     </summary>
   
 
