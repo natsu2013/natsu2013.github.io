@@ -282,3 +282,4 @@ Let's get the user flag.
 
 ## Reference
 - Cross Site Scripting vulnerability in Wonder CMS v.3.2.0 thru v.3.4.2 [CVE-2023-41425](https://github.com/prodigiousMind/CVE-2023-41425)
+- [WonderCMS Vulnerability explain](https://shivamaharjan.medium.com/the-why-and-how-of-cve-2023-41425-wondercms-vulnerability-7ebffbff37d2)

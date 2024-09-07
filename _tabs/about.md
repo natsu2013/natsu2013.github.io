@@ -4,16 +4,14 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<div align="center">
- 
-<img alt="Static Badge" src="https://img.shields.io/badge/%E2%9D%9DDon't%20try%20to%20perfect%2C%20just%20try%20to%20be%20better%20than%20you%20were%20yesterday.%E2%9D%9E-ffbe0b?style=flat&logo=1panel&label=slogan&labelColor=84a98c">
-</div>
+
 
 <div align="center">
 <img clase="about-img" src="assets/img/about/about.png" alt="Dylan Finn">
 </div>
 <div align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Role-SOC_Analyst-blue?style=flat&logo=1panel&labelColor=84a98c">
+ 
+<img alt="Static Badge" src="https://img.shields.io/badge/%E2%9D%9DDon't%20try%20to%20perfect%2C%20just%20try%20to%20be%20better%20than%20you%20were%20yesterday.%E2%9D%9E-ffbe0b?style=flat&logo=1panel&label=slogan&labelColor=84a98c">
 </div>
 
 
