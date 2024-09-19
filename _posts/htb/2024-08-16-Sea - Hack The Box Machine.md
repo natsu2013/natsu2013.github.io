@@ -4,8 +4,10 @@ date: 2024-08-16 08:00:00 - 0500
 categories: [Hack The Box, Machines]
 tags: [htb, machine, web, sea, seasonvi, wondercms]
 image: 
-  path: /assets/img/posts/htb/sea-htb.png
+  path: /assets/img/posts/htb/sea/Seahtb.png
 ---
+
+![Sea](/assets/img/posts/htb/sea/Sea.png){: width="972" height="589" }
 
 ## Reconnaisance
 Hello, you guys! 👋 Welcome back. This is the second machine challenge of `Season VI`. As with many previous attempts to pwn a box, I will start off by scanning the IP address to see what ports are open. Let's do it with NMAP tool: 

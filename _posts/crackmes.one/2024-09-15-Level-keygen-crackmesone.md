@@ -4,7 +4,7 @@ date: 2024-09-15 08:00:00 - 0500
 categories: [Crackmes, Unix/linux etc.]
 tags: [Crackmes, Reverse, C/C++, Linux, GDB, Ghidra]
 image: 
-  path: /assets/img/posts/crackme/levelkeygen/Levelkeygen.jpg
+  path: /assets/img/posts/crackme/baby's first crackme/banner.png
 ---
 
 **Description:** Lots of puts and printf... for people who want a way to progress from level 1 to level 2 and better understand there decompiler framework. If you want the original source code i mightt post it in a day or 2. You are restricted from patching until the bonus stage.
