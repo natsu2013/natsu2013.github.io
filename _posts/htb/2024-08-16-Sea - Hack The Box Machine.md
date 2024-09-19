@@ -4,7 +4,7 @@ date: 2024-08-16 08:00:00 - 0500
 categories: [Hack The Box, Machines]
 tags: [htb, machine, web, sea, seasonvi, wondercms]
 image: 
-  path: /assets/img/posts/htb/sea/Seahtb.png
+  path: /assets/img/posts/htb/htb.png
 ---
 
 ![Sea](/assets/img/posts/htb/sea/Sea.png){: width="972" height="589" }

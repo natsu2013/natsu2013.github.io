@@ -4,7 +4,7 @@ date: 2024-08-08 08:00:00 - 0500
 categories: [Hack The Box, Machines]
 tags: [htb, machine, web, resource, seasonvi]
 image: 
-  path: /assets/img/posts/htb/Resource/resource.png
+  path: /assets/img/posts/htb/htb.png
 ---
 
 
