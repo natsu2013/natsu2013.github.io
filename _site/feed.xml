@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://0.0.0.0:4000/</id>
+  <id>http://localhost:4000/</id>
   <title>Natsu</title>
   <subtitle>DigitalDenCloud - Documentation and More</subtitle>
-  <updated>2024-11-02T16:12:35+00:00</updated>
+  <updated>2024-11-02T16:27:21+00:00</updated>
   <author>
     <name>Natsu.2013</name>
-    <uri>http://0.0.0.0:4000/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://0.0.0.0:4000/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
   <rights> © 2024 Natsu.2013 </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Cicada - Hack The Box Machines</title>
-    <link href="http://0.0.0.0:4000/posts/Cicada-Hack-The-Box-Machine/" rel="alternate" type="text/html" title="Cicada - Hack The Box Machines" />
+    <link href="http://localhost:4000/posts/Cicada-Hack-The-Box-Machine/" rel="alternate" type="text/html" title="Cicada - Hack The Box Machines" />
     <published>2024-10-30T08:00:00+00:00</published>
   
     <updated>2024-10-30T08:00:00+00:00</updated>
   
-    <id>http://0.0.0.0:4000/posts/Cicada-Hack-The-Box-Machine/</id>
-    <content src="http://0.0.0.0:4000/posts/Cicada-Hack-The-Box-Machine/" />
+    <id>http://localhost:4000/posts/Cicada-Hack-The-Box-Machine/</id>
+    <content src="http://localhost:4000/posts/Cicada-Hack-The-Box-Machine/" />
     <author>
       <name>Natsu.2013</name>
     </author>
@@ -61,13 +61,13 @@ To start tackling the Cicada challenge on Hack The Box, I will focus on reconnai
   
   <entry>
     <title>baby's first crackme - Crackmes One</title>
-    <link href="http://0.0.0.0:4000/posts/baby's-first-crackme/" rel="alternate" type="text/html" title="baby&amp;apos;s first crackme - Crackmes One" />
+    <link href="http://localhost:4000/posts/baby's-first-crackme/" rel="alternate" type="text/html" title="baby&amp;apos;s first crackme - Crackmes One" />
     <published>2024-09-19T08:00:00+01:00</published>
   
     <updated>2024-09-19T08:00:00+01:00</updated>
   
-    <id>http://0.0.0.0:4000/posts/baby's-first-crackme/</id>
-    <content src="http://0.0.0.0:4000/posts/baby's-first-crackme/" />
+    <id>http://localhost:4000/posts/baby's-first-crackme/</id>
+    <content src="http://localhost:4000/posts/baby's-first-crackme/" />
     <author>
       <name>Natsu.2013</name>
     </author>
@@ -106,13 +106,13 @@ Open this file with GDB for debugging and we can see the programs have functions
   
   <entry>
     <title>Level Keygen - Crackmes One</title>
-    <link href="http://0.0.0.0:4000/posts/Level-keygen-crackmesone/" rel="alternate" type="text/html" title="Level Keygen - Crackmes One" />
+    <link href="http://localhost:4000/posts/Level-keygen-crackmesone/" rel="alternate" type="text/html" title="Level Keygen - Crackmes One" />
     <published>2024-09-15T08:00:00+01:00</published>
   
     <updated>2024-09-19T13:16:08+01:00</updated>
   
-    <id>http://0.0.0.0:4000/posts/Level-keygen-crackmesone/</id>
-    <content src="http://0.0.0.0:4000/posts/Level-keygen-crackmesone/" />
+    <id>http://localhost:4000/posts/Level-keygen-crackmesone/</id>
+    <content src="http://localhost:4000/posts/Level-keygen-crackmesone/" />
     <author>
       <name>Natsu.2013</name>
     </author>
@@ -147,13 +147,13 @@ Hello you guys, welcome back to another challenge with n00b in cybersecurity. To
   
   <entry>
     <title>CrownJewel 2 - Sherlocks</title>
-    <link href="http://0.0.0.0:4000/posts/CrownJewel2-Hack-The-Box-Challenges/" rel="alternate" type="text/html" title="CrownJewel 2 - Sherlocks" />
+    <link href="http://localhost:4000/posts/CrownJewel2-Hack-The-Box-Challenges/" rel="alternate" type="text/html" title="CrownJewel 2 - Sherlocks" />
     <published>2024-09-14T08:00:00+01:00</published>
   
     <updated>2024-09-19T14:25:13+01:00</updated>
   
-    <id>http://0.0.0.0:4000/posts/CrownJewel2-Hack-The-Box-Challenges/</id>
-    <content src="http://0.0.0.0:4000/posts/CrownJewel2-Hack-The-Box-Challenges/" />
+    <id>http://localhost:4000/posts/CrownJewel2-Hack-The-Box-Challenges/</id>
+    <content src="http://localhost:4000/posts/CrownJewel2-Hack-The-Box-Challenges/" />
     <author>
       <name>Natsu.2013</name>
     </author>
@@ -183,13 +183,13 @@ Hello you guys, welcome back to another challenge with n00b in cybersecurity. To
   
   <entry>
     <title>Simple Reverse Shell with C++</title>
-    <link href="http://0.0.0.0:4000/posts/Reverse-Shell-with-C++/" rel="alternate" type="text/html" title="Simple Reverse Shell with C++" />
+    <link href="http://localhost:4000/posts/Reverse-Shell-with-C++/" rel="alternate" type="text/html" title="Simple Reverse Shell with C++" />
     <published>2024-08-26T08:00:00+01:00</published>
   
     <updated>2024-08-26T08:00:00+01:00</updated>
   
-    <id>http://0.0.0.0:4000/posts/Reverse-Shell-with-C++/</id>
-    <content src="http://0.0.0.0:4000/posts/Reverse-Shell-with-C++/" />
+    <id>http://localhost:4000/posts/Reverse-Shell-with-C++/</id>
+    <content src="http://localhost:4000/posts/Reverse-Shell-with-C++/" />
     <author>
       <name>Natsu.2013</name>
     </author>
