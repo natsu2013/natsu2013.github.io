@@ -1,0 +1,228 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://0.0.0.0:4000/</id>
+  <title>Natsu</title>
+  <subtitle>DigitalDenCloud - Documentation and More</subtitle>
+  <updated>2024-11-02T16:12:35+00:00</updated>
+  <author>
+    <name>Natsu.2013</name>
+    <uri>http://0.0.0.0:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://0.0.0.0:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
+  <rights> © 2024 Natsu.2013 </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Cicada - Hack The Box Machines</title>
+    <link href="http://0.0.0.0:4000/posts/Cicada-Hack-The-Box-Machine/" rel="alternate" type="text/html" title="Cicada - Hack The Box Machines" />
+    <published>2024-10-30T08:00:00+00:00</published>
+  
+    <updated>2024-10-30T08:00:00+00:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/Cicada-Hack-The-Box-Machine/</id>
+    <content src="http://0.0.0.0:4000/posts/Cicada-Hack-The-Box-Machine/" />
+    <author>
+      <name>Natsu.2013</name>
+    </author>
+
+  
+    
+    <category term="Hack The Box" />
+    
+    <category term="Machines" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Reconnaisance
+
+Hello and welcome back to noob in cybersecurity and today I will show you the way that I solved the Cicada challenge on Hack The Box
+
+To start tackling the Cicada challenge on Hack The Box, I will focus on reconnaissance and initial footprinting using tools like Nmap. This initial phase sets the foundation for  a successful hack by providing insights into the target’s infrastruct...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>baby's first crackme - Crackmes One</title>
+    <link href="http://0.0.0.0:4000/posts/baby's-first-crackme/" rel="alternate" type="text/html" title="baby&amp;apos;s first crackme - Crackmes One" />
+    <published>2024-09-19T08:00:00+01:00</published>
+  
+    <updated>2024-09-19T08:00:00+01:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/baby's-first-crackme/</id>
+    <content src="http://0.0.0.0:4000/posts/baby's-first-crackme/" />
+    <author>
+      <name>Natsu.2013</name>
+    </author>
+
+  
+    
+    <category term="Crackmes" />
+    
+    <category term="Unix/linux etc." />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Description: I made it with a certain password (you would know it if you get it), but there are many passwords that work
+
+
+
+Check file
+Similar to other challenges, for this challenge, I was also provided with a zip file. Unzip this file reveals an executable named rust_1.
+
+Analysis
+
+Open this file with GDB for debugging and we can see the programs have functions such as: main, check_key, and en...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Level Keygen - Crackmes One</title>
+    <link href="http://0.0.0.0:4000/posts/Level-keygen-crackmesone/" rel="alternate" type="text/html" title="Level Keygen - Crackmes One" />
+    <published>2024-09-15T08:00:00+01:00</published>
+  
+    <updated>2024-09-19T13:16:08+01:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/Level-keygen-crackmesone/</id>
+    <content src="http://0.0.0.0:4000/posts/Level-keygen-crackmesone/" />
+    <author>
+      <name>Natsu.2013</name>
+    </author>
+
+  
+    
+    <category term="Crackmes" />
+    
+    <category term="Unix/linux etc." />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Description: Lots of puts and printf… for people who want a way to progress from level 1 to level 2 and better understand there decompiler framework. If you want the original source code i mightt post it in a day or 2. You are restricted from patching until the bonus stage.
+
+
+
+Checking the file
+Hello you guys, welcome back to another challenge with n00b in cybersecurity. Today, I’ll be presenti...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>CrownJewel 2 - Sherlocks</title>
+    <link href="http://0.0.0.0:4000/posts/CrownJewel2-Hack-The-Box-Challenges/" rel="alternate" type="text/html" title="CrownJewel 2 - Sherlocks" />
+    <published>2024-09-14T08:00:00+01:00</published>
+  
+    <updated>2024-09-19T14:25:13+01:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/CrownJewel2-Hack-The-Box-Challenges/</id>
+    <content src="http://0.0.0.0:4000/posts/CrownJewel2-Hack-The-Box-Challenges/" />
+    <author>
+      <name>Natsu.2013</name>
+    </author>
+
+  
+    
+    <category term="Hack The Box" />
+    
+    <category term="Sherlocks" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Scenario: Forela’s Domain environment is pure chaos. Just got another alert from the Domain controller of NTDS.dit database being exfiltrated. Just one day prior you responded to an alert on the same domain controller where an attacker dumped NTDS.dit via vssadmin utility. However, you managed to delete the dumped files kick the attacker out of the DC, and restore a clean snapshot. Now they aga...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Simple Reverse Shell with C++</title>
+    <link href="http://0.0.0.0:4000/posts/Reverse-Shell-with-C++/" rel="alternate" type="text/html" title="Simple Reverse Shell with C++" />
+    <published>2024-08-26T08:00:00+01:00</published>
+  
+    <updated>2024-08-26T08:00:00+01:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/Reverse-Shell-with-C++/</id>
+    <content src="http://0.0.0.0:4000/posts/Reverse-Shell-with-C++/" />
+    <author>
+      <name>Natsu.2013</name>
+    </author>
+
+  
+    
+    <category term="Blogs" />
+    
+    <category term="Knowledge" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      What is Reverse Shell?
+
+Reverse shell or often called connect-back shell is remote shell introduced from the target by connecting back to the attacker machine and spawning target shell on the attacker machine. This usually used during exploitation process to gain control of  the remote machine.
+
+
+
+A reverse shell is commonly used to bypass firewall restrictions that block incoming connections.
+...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
